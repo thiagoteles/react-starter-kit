@@ -6,7 +6,7 @@ var DefaultRoute = Router.DefaultRoute;
 var Route = Router.Route;
 
 module.exports = (	
-	<Route name="thirty">
+	<Route name="thiagor">
 		<Route name="home" path="/" handler={Main} />
 	</Route>
 );
